@@ -2,7 +2,7 @@
 This project is part of #Datacademy challenge of Platzi :)
 ------------
 
-### We will looking into the largest USA retailers, inspecting diverse data for answer some questions
+ We will looking into the largest USA retailers, inspecting diverse data for answer some questions
 I will use **Pandas, Numpy, Seaborn and Matplotlib** for graphics and analysis
 
 
